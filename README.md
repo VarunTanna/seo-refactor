@@ -12,7 +12,7 @@
 I used On-Site Opitmization to help clean up this webpage and make it just as effective but with less syntax.
 I did so by doing the following:
 
-- changed html syntax's such as divs to the following:
+- Changed html syntax's such as divs to the following:
     1. Divs to Nav.
     2. Divs to Main.
     3. Divs to Articles.
@@ -20,7 +20,7 @@ I did so by doing the following:
     5. Divs to Sections.
     6. Added abbr tags for SEO.
 
-- changed css syntax to correspond with the html layout doing the following:
+- Changed css syntax to correspond with the html layout doing the following:
     1. Used the header elemment to nessle the h1 and .seo elements.
     2. Used the nav element to keep our articles grouped.
     3. Used nav a elements to add the propper css propeties.
