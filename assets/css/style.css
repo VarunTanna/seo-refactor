@@ -105,7 +105,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-/* changed the search eng to ID */
+/* instead of the classes for the img, h2, p's i grouped them all into article. */
 article {
     margin-bottom: 20px;
     padding: 50px;
