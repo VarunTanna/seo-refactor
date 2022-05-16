@@ -4,8 +4,8 @@
 
 ## Table of Contents
 1. [Description](#discription)
-2. [Visuals](#visuals)
-3. [Respository](#respository)
+2. [Respository](#respository)
+3. [Visuals](#visuals)
 
 
 ## Description
@@ -18,6 +18,7 @@ I did so by doing the following:
     3. divs to articles.
     4. divs to aside.
     5. divs to sections.
+    6. added abbr tags
 
 - changed css syntax to correspond with the html layout doing the following:
     1. used the header elemment to nessle the h1 and .seo elements.
@@ -29,7 +30,7 @@ I did so by doing the following:
 
 
 
-## Visuals 
+## Respository 
 screenshot of the website
 
 - [Respository](https://github.com/VarunTanna/seo-refactor)
@@ -37,7 +38,7 @@ screenshot of the website
 - [LIVE SITE](https://varuntanna.github.io/seo-refactor/)
 
 
-## Resources
+## Visuals
 
 ![Horiseon](./assets/images/Horison-Search-Engine-Optimization.png)
 
