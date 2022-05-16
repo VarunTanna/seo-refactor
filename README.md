@@ -13,25 +13,25 @@ I used On-Site Opitmization to help clean up this webpage and make it just as ef
 I did so by doing the following:
 
 - changed html syntax's such as divs to the following:
-    1. divs to nav.
-    2. divs to main.
-    3. divs to articles.
-    4. divs to aside.
-    5. divs to sections.
-    6. added abbr tags
+    1. Divs to Nav.
+    2. Divs to Main.
+    3. Divs to Articles.
+    4. Divs to Aside.
+    5. Divs to Sections.
+    6. Added abbr tags for SEO.
 
 - changed css syntax to correspond with the html layout doing the following:
-    1. used the header elemment to nessle the h1 and .seo elements.
-    2. used the nav element to keep our articles grouped.
-    3. used nav a elements to add the propper css propeties.
-    4. used aside element to group sections and the elements inside.
-    5. used the benefit class to group together the imgs and h3s.
-    6. used the article element to group together the img and h2.
+    1. Used the header elemment to nessle the h1 and .seo elements.
+    2. Used the nav element to keep our articles grouped.
+    3. Used nav a elements to add the propper css propeties.
+    4. Used aside element to group sections and the elements inside.
+    5. Used the benefit class to group together the imgs and h3s.
+    6. Used the article element to group together the img and h2.
 
 
 
 ## Respository 
-screenshot of the website
+
 
 - [Respository](https://github.com/VarunTanna/seo-refactor)
 

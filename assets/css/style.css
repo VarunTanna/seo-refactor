@@ -74,7 +74,7 @@ main  {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* removed the old css syntax and updated and grouped everything in one with the article element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -138,3 +138,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* did not make any adjustments to the footer */
